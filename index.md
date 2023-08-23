@@ -43,9 +43,7 @@ We reserve the right at any time to modify or discontinue the Service (or any pa
 
 We shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Service.
 
-SECTION 5 - PRODUCTS OR SERVICES (if applicable)
-
-Certain products or Services may be available exclusively online through the application. These products or Services may have limited quantities and are subject to return or exchange only according to our Return Policy. To view our Return Policy, please visit [LINK TO RETURN POLICY]
+SECTION 5 - PRODUCTS OR SERVICES 
 
 We do not warrant that the quality of any products, Services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected.
 
